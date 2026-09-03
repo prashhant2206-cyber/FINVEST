@@ -1,0 +1,6 @@
+{
+  "name": "FINVEST AI",
+  "description": "AI-Assisted Equity Research & Company Prioritization Platform for institutional financial analysis, priority ranking, ML clustering, and AI research briefs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
